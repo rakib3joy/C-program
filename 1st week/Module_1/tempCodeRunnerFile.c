@@ -1,0 +1,1 @@
+ float value = 2.5;
